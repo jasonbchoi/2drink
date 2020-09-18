@@ -1,0 +1,23 @@
+.tiles{
+    display: flex;
+
+}
+
+.tile{
+    height: 30px;
+    width: 30px;
+    border: solid 2px;
+}
+
+.tile1{
+    background-color: red;
+}
+.tile2{
+    background-color: red;
+}
+.tile3{
+    background-color: red;
+}
+.tile4{
+    background-color: red;
+}
